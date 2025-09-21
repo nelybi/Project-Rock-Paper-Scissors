@@ -1,23 +1,25 @@
-# 🗿📄✂️ Project-Rock-Paper-Scissors
+Voici la traduction en français, en gardant le même format et sans les smileys :
 
-Welcome to my **Rock-Paper-Scissors** project! This classic game is coded using **HTML**, **CSS**, and **Vanilla JavaScript**. It's a simple yet fun project that demonstrates basic web development concepts.
+⸻
 
-## 🚀 Features
+Project-Rock-Paper-Scissors
 
-- Play against the computer with classic rules: Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
-- Simple and intuitive user interface.
-- Instant result display after each round.
-- Score system to track your wins, losses, and draws.
+Bienvenue dans mon projet Rock-Paper-Scissors !
+Ce jeu classique est codé en HTML, CSS et Vanilla JavaScript.
+C’est un projet simple mais amusant qui démontre les concepts de base du développement web.
 
-## 🔧 Technologies Used
+Features
+	•	Jouez contre l’ordinateur avec les règles classiques : Pierre bat Ciseaux, Ciseaux bat Feuille, Feuille bat Pierre.
+	•	Interface utilisateur simple et intuitive.
+	•	Affichage instantané du résultat après chaque manche.
+	•	Système de score pour suivre vos victoires, défaites et matchs nuls.
 
-- **HTML5**: Structure of the game.
-- **CSS3**: Styling and layout.
-- **Vanilla JavaScript**: Game logic and interactions.
+Technologies utilisées
+	•	HTML5 : Structure du jeu.
+	•	CSS3 : Mise en forme et disposition.
+	•	Vanilla JavaScript : Logique du jeu et interactions.
 
-## 📦 Installation
+Installation
+	1.	Cloner le dépôt :
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nelybi/rock-paper-scissors.git
-   ```
+git clone https://github.com/nelybi/rock-paper-scissors.git
